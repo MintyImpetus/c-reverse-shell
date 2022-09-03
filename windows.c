@@ -1,3 +1,8 @@
+/* 
+The original source code for this program was found here: https://github.com/izenynn/c-reverse-shell .
+As of now, the two programs are very similar, but hopefully, my file will eventually become distinct. 
+*/
+
 #include <winsock2.h>
 #include <windows.h>
 #include <io.h>
